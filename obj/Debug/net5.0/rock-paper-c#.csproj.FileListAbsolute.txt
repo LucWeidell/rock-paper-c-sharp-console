@@ -1,0 +1,16 @@
+C:\Users\lucwe\OneDrive\Documents\vs_code_portal\codeWorks\Week10\Day1\rock-paper-c#\bin\Debug\net5.0\rock-paper-c#.exe
+C:\Users\lucwe\OneDrive\Documents\vs_code_portal\codeWorks\Week10\Day1\rock-paper-c#\bin\Debug\net5.0\rock-paper-c#.deps.json
+C:\Users\lucwe\OneDrive\Documents\vs_code_portal\codeWorks\Week10\Day1\rock-paper-c#\bin\Debug\net5.0\rock-paper-c#.runtimeconfig.json
+C:\Users\lucwe\OneDrive\Documents\vs_code_portal\codeWorks\Week10\Day1\rock-paper-c#\bin\Debug\net5.0\rock-paper-c#.runtimeconfig.dev.json
+C:\Users\lucwe\OneDrive\Documents\vs_code_portal\codeWorks\Week10\Day1\rock-paper-c#\bin\Debug\net5.0\rock-paper-c#.dll
+C:\Users\lucwe\OneDrive\Documents\vs_code_portal\codeWorks\Week10\Day1\rock-paper-c#\bin\Debug\net5.0\ref\rock-paper-c#.dll
+C:\Users\lucwe\OneDrive\Documents\vs_code_portal\codeWorks\Week10\Day1\rock-paper-c#\bin\Debug\net5.0\rock-paper-c#.pdb
+C:\Users\lucwe\OneDrive\Documents\vs_code_portal\codeWorks\Week10\Day1\rock-paper-c#\obj\Debug\net5.0\rock-paper-c#.csproj.AssemblyReference.cache
+C:\Users\lucwe\OneDrive\Documents\vs_code_portal\codeWorks\Week10\Day1\rock-paper-c#\obj\Debug\net5.0\rock-paper-c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucwe\OneDrive\Documents\vs_code_portal\codeWorks\Week10\Day1\rock-paper-c#\obj\Debug\net5.0\rock-paper-c#.AssemblyInfoInputs.cache
+C:\Users\lucwe\OneDrive\Documents\vs_code_portal\codeWorks\Week10\Day1\rock-paper-c#\obj\Debug\net5.0\rock-paper-c#.AssemblyInfo.cs
+C:\Users\lucwe\OneDrive\Documents\vs_code_portal\codeWorks\Week10\Day1\rock-paper-c#\obj\Debug\net5.0\rock-paper-c#.csproj.CoreCompileInputs.cache
+C:\Users\lucwe\OneDrive\Documents\vs_code_portal\codeWorks\Week10\Day1\rock-paper-c#\obj\Debug\net5.0\rock-paper-c#.dll
+C:\Users\lucwe\OneDrive\Documents\vs_code_portal\codeWorks\Week10\Day1\rock-paper-c#\obj\Debug\net5.0\ref\rock-paper-c#.dll
+C:\Users\lucwe\OneDrive\Documents\vs_code_portal\codeWorks\Week10\Day1\rock-paper-c#\obj\Debug\net5.0\rock-paper-c#.pdb
+C:\Users\lucwe\OneDrive\Documents\vs_code_portal\codeWorks\Week10\Day1\rock-paper-c#\obj\Debug\net5.0\rock-paper-c#.genruntimeconfig.cache
